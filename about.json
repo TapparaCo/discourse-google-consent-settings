@@ -1,0 +1,7 @@
+{
+  "name": "Google Consent Settings",
+  "component": true,
+  "about_url": "https://github.com/TapparaCo/discourse-google-consent-settings",
+  "license_url": "https://github.com/TapparaCo/discourse-google-consent-settings/blob/main/LICENSE",
+  "authors": "Tappara.co"
+}
